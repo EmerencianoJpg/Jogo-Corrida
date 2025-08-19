@@ -1,4 +1,5 @@
 # Jogo de Corrida em Java
+![Java Logo](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 Este projeto é um jogo de corrida multijogador local simples, desenvolvido em Java. A aplicação permite que dois jogadores compitam em diferentes pistas para ver quem completa o número de voltas primeiro.
 
