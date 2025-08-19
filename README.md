@@ -22,6 +22,6 @@ O projeto foi construído usando a linguagem de programação **Java** e a bibli
 2.  **Execute a Classe Principal:** Abra o projeto em uma IDE Java (como NetBeans, Eclipse ou IntelliJ) e execute a classe `JogoCorrida.java` para iniciar o jogo.
 
 ## Download do Jogo
-Você pode baixar a versão executável do jogo neste link:
+Você pode baixar o jogo neste link:
 
 **https://drive.google.com/file/d/10s_Px1Nh7n5pFGYQZenei3EVi4oLCfjN/view?usp=sharing**
